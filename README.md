@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**ElsoNN1zin/ElsoNN1zin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Opa! Sou o Marielson, mas pode me chamar de Bahia 🖖 / Hi! I'm Marielson, but you can call me Bahia 🖖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bem vindo(a/e), sou novo aqui, mas pretendo ser mais ativo. / Welcome! I'm new here, but I plan to be more active.
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elson.silv4/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/elson.silva.5030/)
+
+![Elson GitHub stats](https://github-readme-stats.vercel.app/api?username=ElsoNN1zin&show_icons=true&theme=dracula)
+
+### Tecnologias/Technologies
+
+<div style="display: inline_black"><br/>
+    <img align= "center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img align= "center" alt="Html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+</div><br/>
+
+<br/>
+
+Tenho 20 anos, sou de Salvador/BA, mas atualmente moro em São Paulo/SP.
+Vim com um propósito de mudar de vida. Hoje, moro com a minha noiva e 3 gatos: Nora, Sirius e Arya.
+
+Adoro ver filmes e séries, minha série favorita é Game of Thrones e o meu filme favorito é Harry Potter(todos hahaha).
+
+<br/>
