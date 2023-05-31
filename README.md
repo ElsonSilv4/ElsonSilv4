@@ -10,6 +10,10 @@ Bem vindo(a/e), sou novo aqui, mas pretendo ser mais ativo. / Welcome! I'm new h
 
 ![Elson GitHub stats](https://github-readme-stats.vercel.app/api?username=ElsoNN1zin&show_icons=true&theme=dracula)
 
+<br/>
+
+![Snake animation](https://github.com/ElsoNN1zin/ElsoNN1zin/blob/output/github-contribution-grid-snake.svg)
+
 ### Tecnologias/Technologies
 
 <div style="display: inline_black"><br/>
