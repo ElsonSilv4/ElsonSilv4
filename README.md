@@ -22,6 +22,11 @@ Bem vindo(a/e), sou novo aqui, mas pretendo ser mais ativo. / Welcome! I'm new h
 Tenho 20 anos, sou de Salvador/BA, mas atualmente moro em São Paulo/SP.
 Vim com um propósito de mudar de vida. Hoje, moro com a minha noiva e 3 gatos: Nora, Sirius e Arya.
 
-Adoro ver filmes e séries, minha série favorita é Game of Thrones e o meu filme favorito é Harry Potter(todos hahaha).
+Adoro ver filmes e séries, minha série favorita é Game of Thrones e o meu filme favorito é Harry Potter(todos hahaha). <br/> 
+/
+<br/>I'm 20 years old, I'm from Salvador/BA, but I currently live in São Paulo/SP. I came with a purpose to change my life. Today, I live with my fiancée and 3 cats: Nora, Sirius and Arya.
+
+I love watching movies and series, my favorite series is Game of Thrones and my favorite movie is Harry Potter(all of them lol).
 
 <br/>
+
